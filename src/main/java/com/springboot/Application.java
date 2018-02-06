@@ -14,7 +14,7 @@ import org.springframework.web.cors.UrlBasedCorsConfigurationSource;
 import org.springframework.web.filter.CorsFilter;
 
 @SpringBootApplication
-@MapperScan("com.m2m.mapper")
+@MapperScan("com.springboot.mapper")
 @EnableTransactionManagement
 @EnableScheduling
 public class Application extends SpringBootServletInitializer {

@@ -28,7 +28,7 @@
             <property name="enableSubPackages" value="true"/>
         </javaClientGenerator>
 
-        <table tableName="ad_banner" domainObjectName="AdBanner"/>
+        <table tableName="cms_user" domainObjectName="CmsUser"/>
     	
     </context>
 </generatorConfiguration>
