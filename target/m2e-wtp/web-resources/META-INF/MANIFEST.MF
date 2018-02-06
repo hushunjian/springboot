@@ -7,5 +7,5 @@ Build-Jdk: 1.8.0_161
 Implementation-URL: http://projects.spring.io/spring-boot/springboot/
 Created-By: Maven Integration for Eclipse
 Implementation-Vendor: Pivotal Software, Inc.
-Main-Class: com.m2m.Application
+Main-Class: com.springboot.Application
 
